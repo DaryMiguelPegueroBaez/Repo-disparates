@@ -1,0 +1,2 @@
+Hacerle el minijuego de las naves con React.js
+hacer que cada skill me despliegue a otra pagina donde se desarrollara un breve resumen de que es cada una
