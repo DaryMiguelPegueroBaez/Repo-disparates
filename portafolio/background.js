@@ -28,3 +28,6 @@ window.addEventListener('resize', () => {
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
 });
+
+
+// Jorge mmg Cambia la maldita logica que eso no sirve
